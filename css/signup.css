@@ -1,0 +1,39 @@
+body{
+	background-color: white;
+
+}
+
+.main{
+	background-color: white;
+   margin-right: 450px;
+   margin-left: 450px;
+   padding: 50px;
+   border-radius: 5px;
+   
+   flex-direction: left;   
+}
+
+.alert{
+
+color: #ff3300;
+
+}
+
+.val_error{
+	color: #FF1F1F;
+}
+
+.logo{
+margin-left: 56px;
+margin-bottom: 20px;
+
+}
+.subButton{
+
+background-color: blue;
+color: white;
+border-radius: 5px;
+
+font-size: 20px;
+
+}
